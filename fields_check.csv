@@ -1,0 +1,968 @@
+,id,field,from,to,fromString,toString
+0,1,status,"0          To Do
+2    In Progress
+Name: fromString, dtype: object","0    In Progress
+2          In PR
+Name: toString, dtype: object","0    10000
+2        3
+Name: from, dtype: object","0        3
+2    10006
+Name: to, dtype: object"
+1,2,Pull Request URL,"1     NaN
+13    NaN
+Name: fromString, dtype: object","1     https://github.com/spring-projects/spring-xd/p...
+13    https://github.com/spring-projects/spring-xd/p...
+Name: toString, dtype: object","1     NaN
+13    NaN
+Name: from, dtype: object","1     NaN
+13    NaN
+Name: to, dtype: object"
+2,3,summary,"3    Can completely remove module after putting pro...
+5    Can completely remove custom module after putt...
+Name: fromString, dtype: object","3    Can completely remove custom module after putt...
+5    Can completely remove custom module after putt...
+Name: toString, dtype: object","3    NaN
+5    NaN
+Name: from, dtype: object","3    NaN
+5    NaN
+Name: to, dtype: object"
+3,4,issuetype,"4     Story
+17    Story
+Name: fromString, dtype: object","4             Bug
+17    Improvement
+Name: toString, dtype: object","4     8
+17    8
+Name: from, dtype: object","4     1
+17    4
+Name: to, dtype: object"
+4,5,description,"7    Custom conversion is broken.\r\r\n\r\r\nIf the...
+8    Custom conversion is broken.\r\r\n\r\r\nIf the...
+Name: fromString, dtype: object","7    Custom conversion is broken.\r\r\n\r\r\nIf the...
+8    Custom conversion is broken.\r\r\n\r\r\nIf the...
+Name: toString, dtype: object","7    NaN
+8    NaN
+Name: from, dtype: object","7    NaN
+8    NaN
+Name: to, dtype: object"
+5,6,Fix Version,"10    NaN
+16    NaN
+Name: fromString, dtype: object","10    1.3.2
+16    1.3.2
+Name: toString, dtype: object","10    NaN
+16    NaN
+Name: from, dtype: object","10    15491
+16    15491
+Name: to, dtype: object"
+6,7,assignee,"11    NaN
+18    NaN
+Name: fromString, dtype: object","11    Gary Russell
+18    Gary Russell
+Name: toString, dtype: object","11    NaN
+18    NaN
+Name: from, dtype: object","11    grussell
+18    grussell
+Name: to, dtype: object"
+7,8,resolution,"21    NaN
+27    NaN
+Name: fromString, dtype: object","21    Complete
+27    Complete
+Name: toString, dtype: object","21    NaN
+27    NaN
+Name: from, dtype: object","21    8
+27    8
+Name: to, dtype: object"
+8,9,Link,"32    NaN
+43    NaN
+Name: fromString, dtype: object","32    This issue is related to XD-2567
+43      This issue depends on INT-3956
+Name: toString, dtype: object","32    NaN
+43    NaN
+Name: from, dtype: object","32     XD-2567
+43    INT-3956
+Name: to, dtype: object"
+9,10,Sprint,"35    NaN
+46    NaN
+Name: fromString, dtype: object","35    Sprint 68
+46    Sprint 68
+Name: toString, dtype: object","35    NaN
+46    NaN
+Name: from, dtype: object","35    108
+46    108
+Name: to, dtype: object"
+10,11,Epic Link,"53     NaN
+120    NaN
+Name: fromString, dtype: object","53     XD-1607
+120    XD-2053
+Name: toString, dtype: object","53     NaN
+120    NaN
+Name: from, dtype: object","53     57271
+120    59156
+Name: to, dtype: object"
+11,12,Rank,"55    NaN
+94    NaN
+Name: fromString, dtype: object","55    Ranked higher
+94     Ranked lower
+Name: toString, dtype: object","55    NaN
+94    NaN
+Name: from, dtype: object","55    NaN
+94    NaN
+Name: to, dtype: object"
+12,13,Actual Story Points,"60    NaN
+87    NaN
+Name: fromString, dtype: object","60    5
+87    3
+Name: toString, dtype: object","60    NaN
+87    NaN
+Name: from, dtype: object","60    NaN
+87    NaN
+Name: to, dtype: object"
+13,14,Acceptance Criteria,"89     User provides a jar file exposing a custom bea...
+592                                                  NaN
+Name: fromString, dtype: object","89     User provides a jar file exposing a custom bea...
+592    Update documentation the difference between th...
+Name: toString, dtype: object","89     NaN
+592    NaN
+Name: from, dtype: object","89     NaN
+592    NaN
+Name: to, dtype: object"
+14,15,labels,"169     NaN
+3011    NaN
+Name: fromString, dtype: object","169              PullRequest
+3011    waiting-for-reporter
+Name: toString, dtype: object","169     NaN
+3011    NaN
+Name: from, dtype: object","169     NaN
+3011    NaN
+Name: to, dtype: object"
+15,16,Attachment,"181    Screenshot 2015-12-14 22.02.13.png
+182                                   NaN
+Name: fromString, dtype: object","181                                   NaN
+182    Screenshot 2015-12-14 22.02.13.png
+Name: toString, dtype: object","181    23243
+182      NaN
+Name: from, dtype: object","181      NaN
+182    23245
+Name: to, dtype: object"
+16,17,Story Points,"250    233
+262    111
+Name: fromString, dtype: object","250    5
+262    1
+Name: toString, dtype: object","250    NaN
+262    NaN
+Name: from, dtype: object","250    NaN
+262    NaN
+Name: to, dtype: object"
+17,18,priority,"263    Major
+799    Minor
+Name: fromString, dtype: object","263    Minor
+799    Major
+Name: toString, dtype: object","263    3
+799    4
+Name: from, dtype: object","263    4
+799    3
+Name: to, dtype: object"
+18,19,RemoteIssueLink,"439     NaN
+1056    NaN
+Name: fromString, dtype: object","439         This issue links to ""GitHub issue (Web Link)""
+1056    This issue links to ""SpringXD-issue in mysql a...
+Name: toString, dtype: object","439     NaN
+1056    NaN
+Name: from, dtype: object","439     11103
+1056    11006
+Name: to, dtype: object"
+19,20,Parent,"585    NaN
+756    NaN
+Name: fromString, dtype: object","585    XD-3624
+756    XD-3624
+Name: toString, dtype: object","585    NaN
+756    NaN
+Name: from, dtype: object","585    66360
+756    66360
+Name: to, dtype: object"
+20,21,Component,"851     UI
+852    NaN
+Name: fromString, dtype: object","851     NaN
+852    REST
+Name: toString, dtype: object","851    12784
+852      NaN
+Name: from, dtype: object","851      NaN
+852    12785
+Name: to, dtype: object"
+21,22,Version,"882     NaN
+3352    2.x
+Name: fromString, dtype: object","882     1.3 M1
+3352       NaN
+Name: toString, dtype: object","882       NaN
+3352    14632
+Name: from, dtype: object","882     15099
+3352      NaN
+Name: to, dtype: object"
+22,23,Comment,"1113    NaN
+5394    NaN
+Name: fromString, dtype: object","1113    NaN
+5394    NaN
+Name: toString, dtype: object","1113                                 Moved to GH issues. 
+5394    Actually only the projects renamed. Class and ...
+Name: from, dtype: object","1113    NaN
+5394    NaN
+Name: to, dtype: object"
+23,24,Epic Child,"1335    NaN
+1336    NaN
+Name: fromString, dtype: object","1335    XD-3661
+1336    XD-3675
+Name: toString, dtype: object","1335    NaN
+1336    NaN
+Name: from, dtype: object","1335    66524
+1336    66559
+Name: to, dtype: object"
+24,25,Epic Name,"2537      Job Composition
+2551    Job Orchestration
+Name: fromString, dtype: object","2537    Job Orchestration
+2551         Composed Job
+Name: toString, dtype: object","2537    NaN
+2551    NaN
+Name: from, dtype: object","2537    NaN
+2551    NaN
+Name: to, dtype: object"
+25,26,Parent Issue,"5337    XD-3226
+5342    XD-3226
+Name: fromString, dtype: object","5337    XD-3260
+5342    XD-3260
+Name: toString, dtype: object","5337    XD-3226
+5342    XD-3226
+Name: from, dtype: object","5337    XD-3260
+5342    XD-3260
+Name: to, dtype: object"
+26,27,Epic Colour,"5467    ghx-label-3
+5948            NaN
+Name: fromString, dtype: object","5467    ghx-label-6
+5948    ghx-label-8
+Name: toString, dtype: object","5467    NaN
+5948    NaN
+Name: from, dtype: object","5467    NaN
+5948    NaN
+Name: to, dtype: object"
+27,28,reporter,"7817     David Turanski
+28219      Eric Bottard
+Name: fromString, dtype: object","7817     Sabby Anandan
+28219      Luke Taylor
+Name: toString, dtype: object","7817        dturanski
+28219    eric.bottard
+Name: from, dtype: object","7817     sabby
+28219     luke
+Name: to, dtype: object"
+28,29,Reference URL,"9923    http://docs.spring.io/spring-integration/refer...
+Name: fromString, dtype: object","9923    NaN
+Name: toString, dtype: object","9923    NaN
+Name: from, dtype: object","9923    NaN
+Name: to, dtype: object"
+29,30,environment,"9924                                  spring-XD
+26149    windows, jdk1.7 version 1.0.0.M1 build
+Name: fromString, dtype: object","9924     NaN
+26149    NaN
+Name: toString, dtype: object","9924     NaN
+26149    NaN
+Name: from, dtype: object","9924     NaN
+26149    NaN
+Name: to, dtype: object"
+30,31,Workflow,"9929     classic default workflow
+12108                SPR Workflow
+Name: fromString, dtype: object","9929     XD Scrum Workflow
+12108    XD Scrum Workflow
+Name: toString, dtype: object","9929     109243
+12108    108394
+Name: from, dtype: object","9929     109246
+12108    108395
+Name: to, dtype: object"
+31,32,Key,"9931      INT-3681
+12109    SPR-12656
+Name: fromString, dtype: object","9931     XD-2829
+12109    XD-2634
+Name: toString, dtype: object","9931     NaN
+12109    NaN
+Name: from, dtype: object","9931     NaN
+12109    NaN
+Name: to, dtype: object"
+32,33,project,"9932     Spring Integration
+12110      Spring Framework
+Name: fromString, dtype: object","9932     Spring XD
+12110    Spring XD
+Name: toString, dtype: object","9932     10121
+12110    10000
+Name: from, dtype: object","9932     11401
+12110    11401
+Name: to, dtype: object"
+33,34,Out of Scope,"11433    Old wiki pages should be changed to explain wh...
+16060                                                  NaN
+Name: fromString, dtype: object","11433    * This change is applicable only for > 1.1.x b...
+16060               Implementing a configuration change UI
+Name: toString, dtype: object","11433    NaN
+16060    NaN
+Name: from, dtype: object","11433    NaN
+16060    NaN
+Name: to, dtype: object"
+34,35,Epic Status,"11878      NaN
+25768    To Do
+Name: fromString, dtype: object","11878    To Do
+25768     Done
+Name: toString, dtype: object","11878      NaN
+25768    10300
+Name: from, dtype: object","11878    10300
+25768    10302
+Name: to, dtype: object"
+35,36,Time Spent,"13019    NaN
+13155    NaN
+Name: fromString, dtype: object","13019    2
+13155    1
+Name: toString, dtype: object","13019    NaN
+13155    NaN
+Name: from, dtype: object","13019    NaN
+13155    NaN
+Name: to, dtype: object"
+36,37,WorklogId,"14261    30412
+31861    30411
+Name: fromString, dtype: object","14261    NaN
+31861    NaN
+Name: toString, dtype: object","14261    30412
+31861    30411
+Name: from, dtype: object","14261    NaN
+31861    NaN
+Name: to, dtype: object"
+37,38,timespent,"14262    NaN
+31862    NaN
+Name: fromString, dtype: object","14262       60
+31862    10800
+Name: toString, dtype: object","14262    NaN
+31862    NaN
+Name: from, dtype: object","14262       60
+31862    10800
+Name: to, dtype: object"
+38,39,timeestimate,"14263    NaN
+31863    NaN
+Name: fromString, dtype: object","14263    0
+31863    0
+Name: toString, dtype: object","14263    NaN
+31863    NaN
+Name: from, dtype: object","14263    0
+31863    0
+Name: to, dtype: object"
+39,40,Project,"17721          Spring Batch
+20479    Spring Integration
+Name: fromString, dtype: object","17721    Spring XD
+20479    Spring XD
+Name: toString, dtype: object","17721    10090
+20479    10121
+Name: from, dtype: object","17721    11401
+20479    11401
+Name: to, dtype: object"
+40,41,Severity,"43226    NaN
+43256    NaN
+Name: fromString, dtype: object","43226    Major
+43256    Minor
+Name: toString, dtype: object","43226    NaN
+43256    NaN
+Name: from, dtype: object","43226    10005
+43256    10009
+Name: to, dtype: object"
+41,42,Triage,"43238    NaN
+43321    NaN
+Name: fromString, dtype: object","43238    New
+43321    New
+Name: toString, dtype: object","43238    NaN
+43321    NaN
+Name: from, dtype: object","43238    10302
+43321    10302
+Name: to, dtype: object"
+42,43,Fixed in Build,"43241    NaN
+43282    NaN
+Name: fromString, dtype: object","43241     7.1.2.208
+43282    #7.1.2.261
+Name: toString, dtype: object","43241    NaN
+43282    NaN
+Name: from, dtype: object","43241    NaN
+43282    NaN
+Name: to, dtype: object"
+43,44,Requires More Info,"43373    NaN
+43519    NaN
+Name: fromString, dtype: object","43373    Requires More Info
+43519    Requires More Info
+Name: toString, dtype: object","43373    NaN
+43519    NaN
+Name: from, dtype: object","43373    10305
+43519    10305
+Name: to, dtype: object"
+44,45,Documentation Required,"43376     No
+43836    Yes
+Name: fromString, dtype: object","43376    Completed
+43836    Completed
+Name: toString, dtype: object","43376    10200
+43836    10205
+Name: from, dtype: object","43376    10207
+43836    10207
+Name: to, dtype: object"
+45,46,ClosedOn,"43440    NaN
+43490    NaN
+Name: fromString, dtype: object","43440    28/Jan/14 8:25 AM
+43490    03/Feb/14 1:19 PM
+Name: toString, dtype: object","43440    NaN
+43490    NaN
+Name: from, dtype: object","43440    2014-01-28T08:25-0800
+43490    2014-02-03T13:19-0800
+Name: to, dtype: object"
+46,47,Includes Code Fix,"43718    NaN
+43804    NaN
+Name: fromString, dtype: object","43718    Yes
+43804    Yes
+Name: toString, dtype: object","43718    NaN
+43804    NaN
+Name: from, dtype: object","43718    10007
+43804    10007
+Name: to, dtype: object"
+47,48,Trouble Ticket,"43856    NaN
+44132    NaN
+Name: fromString, dtype: object","43856    347-1A70169E-0363 
+44132     3A0-1A00E602-031C
+Name: toString, dtype: object","43856    NaN
+44132    NaN
+Name: from, dtype: object","43856    NaN
+44132    NaN
+Name: to, dtype: object"
+48,49,Story Size,"44495    NaN
+49066    NaN
+Name: fromString, dtype: object","44495    S
+49066    L
+Name: toString, dtype: object","44495    NaN
+49066    NaN
+Name: from, dtype: object","44495    10802
+49066    10804
+Name: to, dtype: object"
+49,50,security,"45191           NaN
+45201    Corp staff
+Name: fromString, dtype: object","45191    Corp staff
+45201           NaN
+Name: toString, dtype: object","45191      NaN
+45201    10000
+Name: from, dtype: object","45191    10000
+45201      NaN
+Name: to, dtype: object"
+50,51,Reported in Build #,"48093    NaN
+50381     95
+Name: fromString, dtype: object","48093    7.2.0.307
+50381     8.0.1.95
+Name: toString, dtype: object","48093    NaN
+50381    NaN
+Name: from, dtype: object","48093    NaN
+50381    NaN
+Name: to, dtype: object"
+51,52,Injected,"48094    NaN
+62430    NaN
+Name: fromString, dtype: object","48094    Injected
+62430    Injected
+Name: toString, dtype: object","48094    NaN
+62430    NaN
+Name: from, dtype: object","48094    [10700]
+62430    [10700]
+Name: to, dtype: object"
+52,53,Dev Owner,"49411    NaN
+49473    NaN
+Name: fromString, dtype: object","49411         Ben Zhong
+49473    amarjit dhunna
+Name: toString, dtype: object","49411    NaN
+49473    NaN
+Name: from, dtype: object","49411           zyhfish
+49473    amarjit.dhunna
+Name: to, dtype: object"
+53,54,timeoriginalestimate,"49418    NaN
+49611    NaN
+Name: fromString, dtype: object","49418     900
+49611    1200
+Name: toString, dtype: object","49418    NaN
+49611    NaN
+Name: from, dtype: object","49418     900
+49611    1200
+Name: to, dtype: object"
+54,55,QA Owner,"49420    NaN
+49515    NaN
+Name: fromString, dtype: object","49420    Ken Grierson
+49515    Ken Grierson
+Name: toString, dtype: object","49420    NaN
+49515    NaN
+Name: from, dtype: object","49420    kengrierson
+49515    kengrierson
+Name: to, dtype: object"
+55,56,QA Story Points,"49493    NaN
+49517    NaN
+Name: fromString, dtype: object","49493      2
+49517    1/2
+Name: toString, dtype: object","49493    NaN
+49517    NaN
+Name: from, dtype: object","49493    11103
+49517    11101
+Name: to, dtype: object"
+56,57,QA Test Plan,"50166    NaN
+50255    NaN
+Name: fromString, dtype: object","50166    Setup a 4 head web farm \r\r\n\r\r\n*Ensure al...
+50255    Validated with build 105, and works fine:\r\r\...
+Name: toString, dtype: object","50166    NaN
+50255    NaN
+Name: from, dtype: object","50166    NaN
+50255    NaN
+Name: to, dtype: object"
+57,58,WorklogTimeSpent,"64065     4 hours, 49 minutes
+117558                  1 day
+Name: fromString, dtype: object","64065     NaN
+117558    NaN
+Name: toString, dtype: object","64065     17340
+117558    28800
+Name: from, dtype: object","64065     NaN
+117558    NaN
+Name: to, dtype: object"
+58,59,Flagged,"96017    NaN
+97720    NaN
+Name: fromString, dtype: object","96017    Impediment
+97720    Impediment
+Name: toString, dtype: object","96017    NaN
+97720    NaN
+Name: from, dtype: object","96017    [10000]
+97720    [10000]
+Name: to, dtype: object"
+59,60,Release Notes,"102718    Fix_711
+Name: fromString, dtype: object","102718    NaN
+Name: toString, dtype: object","102718    NaN
+Name: from, dtype: object","102718    NaN
+Name: to, dtype: object"
+60,61,Planned Start,"102831    NaN
+102836    NaN
+Name: fromString, dtype: object","102831    2016-03-24 (initialized without having effort ...
+102836    2015-06-10 (initialized without having effort ...
+Name: toString, dtype: object","102831    NaN
+102836    NaN
+Name: from, dtype: object","102831    initialized without having effort estimation
+102836    initialized without having effort estimation
+Name: to, dtype: object"
+61,62,Planned End,"102832    NaN
+102837    NaN
+Name: fromString, dtype: object","102832    2016-03-24 (initialized without having effort ...
+102837    2015-06-10 (initialized without having effort ...
+Name: toString, dtype: object","102832    NaN
+102837    NaN
+Name: from, dtype: object","102832    initialized without having effort estimation
+102837    initialized without having effort estimation
+Name: to, dtype: object"
+62,63,Epic/Theme,"102833    AptanaStudio
+104067             NaN
+Name: fromString, dtype: object","102833    APSTUD-8462 AptanaStudio
+104067                 APSTUD-7571
+Name: toString, dtype: object","102833    NaN
+104067    NaN
+Name: from, dtype: object","102833    NaN
+104067    NaN
+Name: to, dtype: object"
+63,64,Reviewer,"102889    NaN
+102977    NaN
+Name: fromString, dtype: object","102889    Praveen Innamuri
+102977      Chris Williams
+Name: toString, dtype: object","102889    NaN
+102977    NaN
+Name: from, dtype: object","102889    pinnamuri
+102977    cwilliams
+Name: to, dtype: object"
+64,65,resolutiondate,"103123    2014-01-06 03:15:35.0
+103143    2014-01-09 01:26:54.0
+Name: fromString, dtype: object","103123    2014-01-06 03:15:35.174
+103143    2014-01-09 01:26:54.855
+Name: toString, dtype: object","103123    NaN
+103143    NaN
+Name: from, dtype: object","103123    NaN
+103143    NaN
+Name: to, dtype: object"
+65,66,Baseline Start,"103124    NaN
+103175    NaN
+Name: fromString, dtype: object","103124    2013-12-16 (set baseline based of initial work...
+103175    2013-12-11 (set baseline based of initial work...
+Name: toString, dtype: object","103124    NaN
+103175    NaN
+Name: from, dtype: object","103124    set baseline based of initial work logging
+103175    set baseline based of initial work logging
+Name: to, dtype: object"
+66,67,Baseline End,"103125    NaN
+103176    NaN
+Name: fromString, dtype: object","103125    2014-01-03 (set baseline based of initial work...
+103176    2013-12-11 (set baseline based of initial work...
+Name: toString, dtype: object","103125    NaN
+103176    NaN
+Name: from, dtype: object","103125    set baseline based of initial work logging
+103176    set baseline based of initial work logging
+Name: to, dtype: object"
+67,68,Rank (Obsolete),"103256    9680000000
+103278     250000000
+Name: fromString, dtype: object","103256    NaN
+103278    NaN
+Name: toString, dtype: object","103256    NaN
+103278    NaN
+Name: from, dtype: object","103256    NaN
+103278    NaN
+Name: to, dtype: object"
+68,69,Shepherd,"121826    NaN
+121852    NaN
+Name: fromString, dtype: object","121826                  Jie Yu
+121852    Joris Van Remoortere
+Name: toString, dtype: object","121826    NaN
+121852    NaN
+Name: from, dtype: object","121826             jieyu
+121852    jvanremoortere
+Name: to, dtype: object"
+69,70,Target Version/s,"124649    0.27.1
+124719       NaN
+Name: fromString, dtype: object","124649    0.28.0
+124719    0.28.0
+Name: toString, dtype: object","124649    [12334748]
+124719           NaN
+Name: from, dtype: object","124649    [12334661]
+124719    [12334661]
+Name: to, dtype: object"
+70,71,External issue URL,"130415    NaN
+130440    NaN
+Name: fromString, dtype: object","130415    https://reviews.apache.org/r/37699/
+130440    https://reviews.apache.org/r/37684/
+Name: toString, dtype: object","130415    NaN
+130440    NaN
+Name: from, dtype: object","130415    NaN
+130440    NaN
+Name: to, dtype: object"
+71,72,duedate,"132425    NaN
+202165    NaN
+Name: fromString, dtype: object","132425    2017-10-05 00:00:00.0
+202165    2015-04-24 00:00:00.0
+Name: toString, dtype: object","132425    NaN
+202165    NaN
+Name: from, dtype: object","132425    2017-10-05
+202165    2015-04-24
+Name: to, dtype: object"
+72,73,User impact,"141993    NaN
+142130    NaN
+Name: fromString, dtype: object","141993         High
+142130    Very High
+Name: toString, dtype: object","141993    NaN
+142130    NaN
+Name: from, dtype: object","141993    10012
+142130    10327
+Name: to, dtype: object"
+73,74,SFDC Case URL,"142119    https://na29.salesforce.com/5003400000o1nR6
+146645    https://na29.salesforce.com/5003400000k6n9t
+Name: fromString, dtype: object","142119    NaN
+146645    NaN
+Name: toString, dtype: object","142119    NaN
+146645    NaN
+Name: from, dtype: object","142119    NaN
+146645    NaN
+Name: to, dtype: object"
+74,75,Customer Value Points,"142121    30
+142673    10
+Name: fromString, dtype: object","142121    NaN
+142673    NaN
+Name: toString, dtype: object","142121    NaN
+142673    NaN
+Name: from, dtype: object","142121    NaN
+142673    NaN
+Name: to, dtype: object"
+75,76,SFDC Customer Impact,"142128    High
+146653    High
+Name: fromString, dtype: object","142128    NaN
+146653    NaN
+Name: toString, dtype: object","142128    10282
+146653    10282
+Name: from, dtype: object","142128    NaN
+146653    NaN
+Name: to, dtype: object"
+76,77,SFDC Case Severity,"142129    S2
+146654    S3
+Name: fromString, dtype: object","142129    NaN
+146654    NaN
+Name: toString, dtype: object","142129    10261
+146654    10262
+Name: from, dtype: object","142129    NaN
+146654    NaN
+Name: to, dtype: object"
+77,78,Product-Component,"142133    Parent values: Mule ESB(10845)Level 1 values: ...
+146658    Parent values: Mule ESB(10845)Level 1 values: ...
+Name: fromString, dtype: object","142133    NaN
+146658    NaN
+Name: toString, dtype: object","142133    NaN
+146658    NaN
+Name: from, dtype: object","142133    NaN
+146658    NaN
+Name: to, dtype: object"
+78,79,Effort points,"142312    1
+142994    5
+Name: fromString, dtype: object","142312    NaN
+142994    NaN
+Name: toString, dtype: object","142312    NaN
+142994    NaN
+Name: from, dtype: object","142312    NaN
+142994    NaN
+Name: to, dtype: object"
+79,80,Does this issue require documentation?,"143369    Yes
+144522    Yes
+Name: fromString, dtype: object","143369    No
+144522    No
+Name: toString, dtype: object","143369    11832
+144522    11832
+Name: from, dtype: object","143369    11833
+144522    11833
+Name: to, dtype: object"
+80,81,Migration Impact,"144844    NaN
+146496    NaN
+Name: fromString, dtype: object","144844    The default authentication method for the clie...
+146496    When until-successful throws an exception, it ...
+Name: toString, dtype: object","144844    NaN
+146496    NaN
+Name: from, dtype: object","144844    NaN
+146496    NaN
+Name: to, dtype: object"
+81,82,Configuration,"146002    In the mule domain:\r\r\n\r\r\n    <http:liste...
+146046    <?xml version=""1.0"" encoding=""UTF-8""?>\r\r\n\r...
+Name: fromString, dtype: object","146002    In the mule domain:\r\r\n{code:xml}\r\r\n    <...
+146046    {code:xml}\r\r\n<?xml version=""1.0"" encoding=""...
+Name: toString, dtype: object","146002    NaN
+146046    NaN
+Name: from, dtype: object","146002    NaN
+146046    NaN
+Name: to, dtype: object"
+82,83,Value/Effort,"146209    NaN
+153286    NaN
+Name: fromString, dtype: object","146209     0
+153286    13
+Name: toString, dtype: object","146209    NaN
+153286    NaN
+Name: from, dtype: object","146209    NaN
+153286    NaN
+Name: to, dtype: object"
+83,84,Log Output,"147110    INFO] --- maven-plugin-plugin:2.6:descriptor (...
+148132    \r\r\n\r\r\n==> /opt/mule-standalone-3.7.0-SNA...
+Name: fromString, dtype: object","147110    [INFO] --- maven-plugin-plugin:2.6:descriptor ...
+148132    ERROR 2015-05-13 16:39:31,135 [[default].HTTP_...
+Name: toString, dtype: object","147110    NaN
+148132    NaN
+Name: from, dtype: object","147110    NaN
+148132    NaN
+Name: to, dtype: object"
+84,85,Affects Docs,"147936    NaN
+161259    NaN
+Name: fromString, dtype: object","147936    Yes
+161259    Yes
+Name: toString, dtype: object","147936    NaN
+161259    NaN
+Name: from, dtype: object","147936    [10210]
+161259    [10210]
+Name: to, dtype: object"
+85,86,Customer name,"154373      City of Tampa
+154837    Australian Post
+Name: fromString, dtype: object","154373    NaN
+154837    NaN
+Name: toString, dtype: object","154373    NaN
+154837    NaN
+Name: from, dtype: object","154373    NaN
+154837    NaN
+Name: to, dtype: object"
+86,87,% Users Impacted,"156427    NaN
+163056    NaN
+Name: fromString, dtype: object","156427      >80%
+163056    60-80%
+Name: toString, dtype: object","156427    NaN
+163056    NaN
+Name: from, dtype: object","156427    10319
+163056    10318
+Name: to, dtype: object"
+87,88,Value,"157049    NaN
+Name: fromString, dtype: object","157049    2
+Name: toString, dtype: object","157049    NaN
+Name: from, dtype: object","157049    NaN
+Name: to, dtype: object"
+88,89,Effort,"161257    NaN
+162114    NaN
+Name: fromString, dtype: object","161257    XL
+162114     M
+Name: toString, dtype: object","161257    NaN
+162114    NaN
+Name: from, dtype: object","161257    10314
+162114    10312
+Name: to, dtype: object"
+89,90,Spec Link,"162820    http://corp.wiki.mulesource.com/display/WP/Sim...
+162852    http://corp.wiki.mulesource.com/display/WP/Sim...
+Name: fromString, dtype: object","162820    NaN
+162852    NaN
+Name: toString, dtype: object","162820    NaN
+162852    NaN
+Name: from, dtype: object","162820    NaN
+162852    NaN
+Name: to, dtype: object"
+90,91,CLA,"163163    NaN
+Name: fromString, dtype: object","163163    Yes
+Name: toString, dtype: object","163163    NaN
+Name: from, dtype: object","163163    [10021]
+Name: to, dtype: object"
+91,92,Scrum Ranking (Obsolete),"163482    21120000000
+Name: fromString, dtype: object","163482    NaN
+Name: toString, dtype: object","163482    NaN
+Name: from, dtype: object","163482    NaN
+Name: to, dtype: object"
+92,93,Aha! Reference,"163921    NaN
+165226    NaN
+Name: fromString, dtype: object","163921    https://sonatype.aha.io:443/features/NXRM-495
+165226    https://sonatype.aha.io:443/features/NXRM-319
+Name: toString, dtype: object","163921    NaN
+165226    NaN
+Name: from, dtype: object","163921    NaN
+165226    NaN
+Name: to, dtype: object"
+93,94,CC,"163929    NaN
+164445    NaN
+Name: fromString, dtype: object","163929    Christian Meier
+164445    Christian Meier
+Name: toString, dtype: object","163929    NaN
+164445    NaN
+Name: from, dtype: object","163929    [mkristian]
+164445    [mkristian]
+Name: to, dtype: object"
+94,95,Release Note,"164687    NaN
+166672    NaN
+Name: fromString, dtype: object","164687    Yes
+166672    Yes
+Name: toString, dtype: object","164687    NaN
+166672    NaN
+Name: from, dtype: object","164687    [10070]
+166672    [10070]
+Name: to, dtype: object"
+95,96,Email,"164690    NaN
+169622    NaN
+Name: fromString, dtype: object","164690    NaN
+169622    NaN
+Name: toString, dtype: object","164690    NaN
+169622    NaN
+Name: from, dtype: object","164690    NaN
+169622    NaN
+Name: to, dtype: object"
+96,97,Release Version History,"175651    Iteration 02/09 - 02/16
+175657    Iteration 02/09 - 02/16
+Name: fromString, dtype: object","175651    NaN
+175657    NaN
+Name: toString, dtype: object","175651    [12024]
+175657    [12024]
+Name: from, dtype: object","175651    NaN
+175657    NaN
+Name: to, dtype: object"
+97,98,Global Rank,"177939    NaN
+178511    NaN
+Name: fromString, dtype: object","177939    Ranked lower
+178511    Ranked lower
+Name: toString, dtype: object","177939    NaN
+178511    NaN
+Name: from, dtype: object","177939    NaN
+178511    NaN
+Name: to, dtype: object"
+98,99,Labels,"183298                                 NaN
+183703    ui broken repository_group ""all""
+Name: fromString, dtype: object","183298                    repository
+183703    ui broken repository_group
+Name: toString, dtype: object","183298    NaN
+183703    NaN
+Name: from, dtype: object","183298    NaN
+183703    NaN
+Name: to, dtype: object"
+99,100,Points,"184289    NaN
+184305    NaN
+Name: fromString, dtype: object","184289    3
+184305    3
+Name: toString, dtype: object","184289    NaN
+184305    NaN
+Name: from, dtype: object","184289    NaN
+184305    NaN
+Name: to, dtype: object"
+100,101,Test Status,"184889    NaN
+215119    NaN
+Name: fromString, dtype: object","184889    Existing
+215119         New
+Name: toString, dtype: object","184889    NaN
+215119    NaN
+Name: from, dtype: object","184889    10024
+215119    10023
+Name: to, dtype: object"
+101,102,Tester,"185180    NaN
+185248    NaN
+Name: fromString, dtype: object","185180    Josh Longton
+185248    Harry Bryant
+Name: toString, dtype: object","185180    NaN
+185248    NaN
+Name: from, dtype: object","185180    jlongton
+185248    htbryant
+Name: to, dtype: object"
+102,103,Customers,"186504    NaN
+217043    NaN
+Name: fromString, dtype: object","186504    community
+217043    community
+Name: toString, dtype: object","186504    NaN
+217043    NaN
+Name: from, dtype: object","186504    NaN
+217043    NaN
+Name: to, dtype: object"
+103,104,Repro Case,"209524         NaN
+209550    Attached
+Name: fromString, dtype: object","209524    Attached
+209550         NaN
+Name: toString, dtype: object","209524        NaN
+209550    [10126]
+Name: from, dtype: object","209524    [10126]
+209550        NaN
+Name: to, dtype: object"
+104,105,Customer Priority,"217402    NaN
+217450    NaN
+Name: fromString, dtype: object","217402    Next Patch
+217450     Immediate
+Name: toString, dtype: object","217402    NaN
+217450    NaN
+Name: from, dtype: object","217402    10630
+217450    10056
+Name: to, dtype: object"
+105,106,Task Type,"217980    NaN
+220296    NaN
+Name: fromString, dtype: object","217980    Release
+220296    Release
+Name: toString, dtype: object","217980    NaN
+220296    NaN
+Name: from, dtype: object","217980    10109
+220296    10109
+Name: to, dtype: object"
+106,107,Test Link(s),"235746    http://support-admin.appcelerator.com/display/...
+Name: fromString, dtype: object","235746    NaN
+Name: toString, dtype: object","235746    NaN
+Name: from, dtype: object","235746    NaN
+Name: to, dtype: object"
+107,108,Test Type,"236850         NaN
+238327    Drillbit
+Name: fromString, dtype: object","236850    Other
+238327    Other
+Name: toString, dtype: object","236850    NaN
+238327    NaN
+Name: from, dtype: object","236850    10055
+238327      NaN
+Name: to, dtype: object"
+108,109,Customer,"238373    NaN
+238585    NaN
+Name: fromString, dtype: object","238373    yes
+238585    yes
+Name: toString, dtype: object","238373    NaN
+238585    NaN
+Name: from, dtype: object","238373    NaN
+238585    NaN
+Name: to, dtype: object"
+109,110,ROM,"245258    <1 day
+Name: fromString, dtype: object","245258    NaN
+Name: toString, dtype: object","245258    10533
+Name: from, dtype: object","245258    NaN
+Name: to, dtype: object"
+110,111,Business Value,"246156    The users are getting this strange effect of t...
+Name: fromString, dtype: object","246156    NaN
+Name: toString, dtype: object","246156    NaN
+Name: from, dtype: object","246156    NaN
+Name: to, dtype: object"
