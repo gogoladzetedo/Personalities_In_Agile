@@ -1,0 +1,185 @@
+,key,project,author,field,created,text,textLength
+261,XD-3244,xd,dturanski,summary,2015-07-10 09:35:39.172,Copy,4
+348,XD-3063,xd,grussell,Comment,2015-05-18 08:12:06.730,See utions,10
+356,XD-3015,xd,dturanski,summary,2015-04-30 07:03:44.485,fails on,8
+495,XD-2696,xd,mminella,Comment,2015-02-06 10:35:24.937,PR:,3
+613,XD-2368,xd,sabby,Acceptance Criteria,2014-11-20 15:12:02.318,POC * Roadmap,13
+621,XD-2356,xd,sabby,summary,2014-12-08 09:38:58.163,Kafka support,13
+727,XD-2135,xd,sabby,Acceptance Criteria,2014-10-20 10:17:22.882,nan,3
+728,XD-2131,xd,sabby,summary,2015-10-07 16:29:10.993,Add S3 sink,11
+731,XD-2129,xd,sabby,summary,2015-10-07 16:29:44.065,Add S3 source,13
+766,XD-2090,xd,sabby,Out of Scope,2014-10-16 13:40:14.751,REST API,8
+784,XD-2075,xd,grussell,description,2014-08-10 10:01:07.479,See,3
+826,XD-1975,xd,thomas.risberg,Comment,2014-07-16 06:18:29.740,Pull Request:,13
+839,XD-1915,xd,mark.fisher,Comment,2014-07-07 07:47:55.215,,0
+854,XD-1863,xd,eric.bottard,Comment,2014-06-25 05:49:30.500,PR is at,8
+872,XD-1799,xd,grussell,description,2014-06-02 21:08:59.153,,0
+876,XD-1786,xd,grussell,description,2014-06-09 11:35:31.305,PR:,3
+1029,XD-1385,xd,grenfro,description,2014-03-20 10:34:14.832,nan,3
+1044,XD-1344,xd,mark.fisher,Comment,2014-05-01 13:34:06.092,PR:,3
+1061,XD-1299,xd,eric.bottard,summary,2014-06-25 06:17:06.440,Move out of,11
+1085,XD-1236,xd,thomas.risberg,description,2014-01-23 15:36:24.262,nan,3
+1220,XD-840,xd,grussell,description,2013-09-11 16:55:35.901,As of and,9
+1247,XD-713,xd,mark.pollack,description,2014-01-27 20:55:50.001,nan,3
+1381,XD-282,xd,mark.fisher,Comment,2013-11-04 15:22:14.515,,0
+1399,XD-246,xd,mminella,summary,2013-06-18 18:30:32.610,,0
+1446,XD-125,xd,mark.pollack,description,2013-05-29 22:58:36.836,nan,3
+1474,XD-33,xd,mark.fisher,summary,2013-05-01 14:37:02.483,Implement,9
+1476,XD-32,xd,rudovichenko,Comment,2014-08-08 04:27:16.703,1,1
+1484,XD-28,xd,rudovichenko,Comment,2014-08-11 01:42:13.314,1,1
+1497,XD-8,xd,rudovichenko,Comment,2014-08-08 04:26:44.477,Comment,7
+1508,DNN-27686,dnn,cnurse,summary,2013-07-29 17:49:45.849,Cache data,10
+1556,DNN-23755,dnn,cnurse,Comment,2013-09-27 15:05:47.718,,0
+1577,DNN-21887,dnn,cnurse,Comment,2013-09-16 19:25:45.561,please say,10
+2253,DNN-4961,dnn,cnurse,description,2014-03-06 18:24:37.021,,0
+2279,DNN-4792,dnn,mariette.knap@gmail.com,Comment,2015-02-18 16:46:37.189,,0
+2301,DNN-4569,dnn,leupold,summary,2014-01-08 13:57:00.434,Typos in file,13
+2304,DNN-4567,dnn,leupold,summary,2014-01-08 12:58:36.279,Typo in,7
+2391,DNN-3995,dnn,leupold,summary,2013-10-29 13:03:49.408,Typos in,8
+2464,DNN-3491,dnn,vikas100,summary,2013-12-12 14:20:35.632,SharpZipLib,11
+2597,APSTUD-7229,apstud,ingo,summary,2012-08-03 09:53:59.000,in,2
+2679,APSTUD-4861,apstud,neill,Comment,2012-06-18 03:24:52.000,Cheers Neill,12
+2787,APSTUD-4594,apstud,ingo,summary,2012-07-03 09:03:49,PHP: in,7
+2915,APSTUD-4166,apstud,wrobel.marek,description,2012-01-15 13:57:57,,0
+3056,APSTUD-2186,apstud,mxia,description,2012-07-11 17:58:13.000,nan,3
+3077,APSTUD-994,apstud,ingo,description,2012-05-04 07:19:22.000,,0
+3111,MESOS-5221,mesos,klueska,description,2016-04-14 20:32:41.521,,0
+3122,MESOS-5146,mesos,alexr,summary,2016-04-21 12:28:44.197,is flaky.,9
+3139,MESOS-5064,mesos,greggomann,Comment,2016-05-07 01:31:28.394,Reviews here:,13
+3144,MESOS-5023,mesos,klaus1982,summary,2016-03-25 03:21:28.986,is flaky.,9
+3191,MESOS-4810,mesos,haosdent@gmail.com,summary,2016-03-17 17:52:35.729,fails.,6
+3220,MESOS-4712,mesos,vinodkone,Comment,2016-03-01 22:34:53.428,test,4
+3222,MESOS-4687,mesos,neilc,description,2016-02-16 18:15:20.910,Design doc:,11
+3241,MESOS-4598,mesos,tillt,Comment,2016-02-05 03:15:30.763,,0
+3254,MESOS-4530,mesos,mcypark,summary,2016-01-28 04:00:56.936,is flaky,8
+3296,MESOS-4281,mesos,hartem,Comment,2016-01-26 22:03:00.658,,0
+3315,MESOS-4175,mesos,alexr,summary,2016-04-08 14:42:18.311,is slow.,8
+3316,MESOS-4174,mesos,alexr,summary,2016-04-12 15:31:40.924,is slow.,8
+3317,MESOS-4171,mesos,alexr,summary,2016-04-12 15:30:04.062,is slow.,8
+3318,MESOS-4170,mesos,alexr,summary,2016-04-12 15:28:17.455,is slow.,8
+3319,MESOS-4167,mesos,alexr,summary,2016-04-12 15:25:42.928,is slow.,8
+3320,MESOS-4166,mesos,alexr,summary,2016-04-12 15:24:12.429,is slow.,8
+3321,MESOS-4165,mesos,alexr,summary,2016-04-08 14:17:09.957,is slow.,8
+3322,MESOS-4164,mesos,alexr,summary,2016-04-08 14:15:40.436,is slow.,8
+3326,MESOS-4154,mesos,adam-mesos,summary,2016-01-21 09:40:00.600,Rename to,9
+3337,MESOS-4102,mesos,alexr,Comment,2016-01-19 17:17:28.413,,0
+3355,MESOS-4029,mesos,bmahler,summary,2015-12-01 01:25:58.974,is flaky.,9
+3382,MESOS-3943,mesos,JamesYongQiaoWang,Comment,2015-12-17 12:04:42.413,Append RR:,10
+3383,MESOS-3937,mesos,tillt,description,2015-11-17 18:31:54.884,,0
+3392,MESOS-3916,mesos,anandmazumdar,summary,2015-11-14 04:49:05.480,is flaky,8
+3393,MESOS-3916,mesos,anandmazumdar,description,2015-11-14 04:50:01.516,Verbose Logs:,13
+3400,MESOS-3890,mesos,gyliu,description,2016-03-16 02:05:24.684,,0
+3421,MESOS-3775,mesos,alexr,summary,2016-04-08 14:02:14.247,is slow.,8
+3442,MESOS-3641,mesos,jvanremoortere,summary,2016-03-24 09:56:29.339,Implement and,13
+3448,MESOS-3586,mesos,kaysoky,summary,2015-12-01 23:07:52.114,and are flaky,13
+3464,MESOS-3556,mesos,marco-mesos,summary,2015-09-30 08:08:27.647,broken in,9
+3477,MESOS-3497,mesos,jojy,description,2015-09-25 03:12:58.080,,0
+3493,MESOS-3368,mesos,klueska,Comment,2016-03-21 17:59:24.766,,0
+3524,MESOS-3235,mesos,bernd-mesos,Comment,2015-08-26 21:10:06.453,,0
+3532,MESOS-3197,mesos,greggomann,summary,2015-08-03 23:56:39.430,fails on OS X,13
+3542,MESOS-3173,mesos,tillt,Comment,2015-07-29 16:18:27.645,,0
+3561,MESOS-3115,mesos,karya,description,2015-07-23 03:38:12.116,Published RR:,13
+3563,MESOS-3113,mesos,gilbert,Comment,2015-11-23 21:26:15.594,,0
+3565,MESOS-3098,mesos,hausdorff,summary,2015-07-21 14:27:08.042,Implement and,13
+3580,MESOS-3074,mesos,alex-mesos,Comment,2015-09-02 12:51:08.041,,0
+3599,MESOS-3060,mesos,bernd-mesos,Comment,2015-07-16 17:43:00.381,,0
+3612,MESOS-3041,mesos,kaysoky,Comment,2015-09-14 18:09:55.446,,0
+3650,MESOS-2944,mesos,js84,Comment,2015-06-26 12:51:20.731,,0
+3670,MESOS-2869,mesos,bmahler,description,2015-06-15 18:39:17.218,Came up in,10
+3752,MESOS-2627,mesos,vinodkone,summary,2015-04-17 22:58:17.810,is flaky,8
+3758,MESOS-2596,mesos,alex-mesos,Comment,2015-05-18 10:21:42.058,Absolutely!,11
+3761,MESOS-2579,mesos,nnielsen,description,2015-04-01 16:23:56.136,nan,3
+3783,MESOS-2394,mesos,bernd-mesos,Comment,2015-06-23 12:54:29.329,Will do.,8
+3787,MESOS-2373,mesos,mcypark,Comment,2015-03-03 08:19:22.193,,0
+3829,MESOS-2139,mesos,mcypark,Comment,2015-03-17 04:19:02.291,,0
+3840,MESOS-2077,mesos,gyliu,Comment,2015-11-03 08:21:35.070,A RR is here:,13
+3843,MESOS-2070,mesos,bernd-mesos,Comment,2015-02-17 09:13:32.656,Now part of,11
+4001,MULE-9138,mule,rodrigo.merino,summary,2015-11-20 17:51:32.495,Fix flaky,9
+4100,MULE-8458,mule,rrinaudo,summary,2015-04-09 15:52:29.006,Upgrade to,10
+4101,MULE-8458,mule,afelisatti,summary,2015-04-10 12:33:18.526,Upgrade to,10
+4240,MULE-7353,mule,pablo.lagreca.ce,summary,2014-02-20 16:02:34.426,Cannot share,12
+4284,MULE-6872,mule,fernando.federico,summary,2013-06-25 15:52:52.914,Poll,4
+4318,MULE-6646,mule,reza.shafii,description,2013-02-15 16:09:43.123,,0
+4320,MULE-6645,mule,reza.shafii,description,2013-02-15 16:09:38.069,,0
+4322,MULE-6642,mule,reza.shafii,description,2013-02-15 16:09:17.972,,0
+4324,MULE-6641,mule,reza.shafii,description,2013-02-15 16:09:25.439,,0
+4385,NEXUS-9599,nexus,krobinson,Comment,2016-01-18 17:56:17.359,,0
+4593,NEXUS-8502,nexus,krobinson,Comment,2015-04-28 22:35:58.775,,0
+4660,NEXUS-8066,nexus,jtom,Comment,2015-02-10 20:25:14.830,,0
+4787,NEXUS-6801,nexus,alin,Comment,2014-10-06 08:02:24.072,,0
+4793,NEXUS-6764,nexus,alin,Comment,2014-09-18 17:13:57.411,,0
+4799,NEXUS-6680,nexus,alin,Comment,2014-10-16 08:59:13.204,,0
+4833,NEXUS-6511,nexus,jdillon,summary,2014-04-03 18:05:24.928,Remove,6
+4860,NEXUS-6286,nexus,acunetix,Comment,2014-04-08 02:50:08.746,comment,7
+4862,NEXUS-6286,nexus,jdillon,description,2014-05-12 22:13:00.145,nan,3
+4888,NEXUS-6015,nexus,alin,Comment,2013-11-11 10:30:12.978,,0
+4897,NEXUS-5909,nexus,plynch,description,2013-09-30 17:48:13.505,,0
+4898,NEXUS-5909,nexus,alin,description,2013-09-30 17:53:14.225,nan,3
+4911,NEXUS-5173,nexus,alin,summary,2012-11-30 12:07:41.865,Fix,3
+4912,NEXUS-5173,nexus,jdillon,summary,2013-08-14 00:39:39.538,Fix,3
+4913,NEXUS-5114,nexus,plynch,summary,2012-06-25 15:41:09.657,Regression:,11
+4914,NEXUS-5107,nexus,bhanzelmann,summary,2012-06-21 11:54:39.236,IT:,3
+4915,NEXUS-5107,nexus,plynch,summary,2012-06-25 15:40:54.883,Regression:,11
+4925,NEXUS-4925,nexus,bhanzelmann,summary,2012-03-05 10:58:52.263,Regression,10
+4926,NEXUS-4922,nexus,plynch,summary,2012-04-05 13:30:10.174,Regression,10
+4937,NEXUS-4883,nexus,plynch,summary,2012-04-05 13:30:52.392,Regression,10
+4954,NEXUS-4829,nexus,bhanzelmann,description,2012-02-06 11:14:34.790,Failed (from,12
+4974,NEXUS-4714,nexus,velo,description,2011-12-17 11:00:25.245,,0
+4981,NEXUS-4662,nexus,bhanzelmann,summary,2011-11-28 10:16:31.618,failed on CI:,13
+4984,NEXUS-4661,nexus,bhanzelmann,description,2011-11-25 10:17:00.106,,0
+4990,NEXUS-4624,nexus,plynch,description,2011-11-09 12:30:37.869,,0
+4999,NEXUS-4357,nexus,plynch,summary,2011-12-09 13:28:37.600,Rename to,9
+5151,TIMOB-20354,timob,cwilliams,description,2016-02-05 14:28:15.000,Support:,8
+5225,TIMOB-20174,timob,hansknoechel,summary,2015-12-23 19:48:48.000,iOS: Move,9
+5341,TIMOB-19891,timob,falko,Comment,2015-08-05 06:27:39,Typo at,7
+5394,TIMOB-19725,timob,apetkov,Comment,2015-11-20 22:37:56,PR Closed,9
+5456,TIMOB-19544,timob,benutzername,Comment,2015-09-18 13:45:31,+1,2
+5480,TIMOB-19484,timob,cwilliams,description,2015-09-09 17:12:29,,0
+5481,TIMOB-19483,timob,cwilliams,description,2015-09-09 17:13:06,,0
+5609,TIMOB-19150,timob,hansknoechel,Comment,2015-07-06 09:31:55,PR pending:,11
+5610,TIMOB-19150,timob,hansknoechel,description,2015-07-10 08:19:05,,0
+5661,TIMOB-19020,timob,cng,summary,2015-07-07 05:44:02,iOS9: Support,13
+5694,TIMOB-18944,timob,cwilliams,description,2015-05-22 16:32:31,,0
+5712,TIMOB-18905,timob,msamah,Comment,2015-05-25 07:05:42,PR:,3
+5734,TIMOB-18864,timob,cwilliams,description,2015-04-30 15:32:22,,0
+5761,TIMOB-18761,timob,cwilliams,description,2015-03-27 18:09:16,,0
+5809,TIMOB-18530,timob,cwilliams,description,2015-02-05 23:15:38,See,3
+5813,TIMOB-18516,timob,ingo,summary,2015-03-13 02:34:27,Android:,8
+5879,TIMOB-18283,timob,vduggal,description,2014-12-22 19:51:44,Test Code,9
+5952,TIMOB-17972,timob,cwilliams,description,2014-11-10 18:52:53,,0
+5953,TIMOB-17972,timob,kota,description,2015-11-13 07:17:28,,0
+5974,TIMOB-17914,timob,cwilliams,description,2015-09-09 17:13:22,,0
+5976,TIMOB-17913,timob,cwilliams,description,2015-03-27 19:21:50,,0
+5979,TIMOB-17909,timob,ingo,description,2014-11-17 23:14:30,See here:,9
+5984,TIMOB-17902,timob,cwilliams,description,2014-11-12 18:00:53,,0
+5985,TIMOB-17901,timob,ingo,description,2014-11-05 23:43:01,See *,5
+6009,TIMOB-17833,timob,cwilliams,description,2014-10-09 18:57:47,,0
+6038,TIMOB-17726,timob,ingo,summary,2014-09-18 17:58:31,iOS: Support,12
+6472,TIMOB-12230,timob,rmcmahon,summary,2013-01-07 12:12:27,Implement,9
+6474,TIMOB-12228,timob,rmcmahon,summary,2013-01-07 12:13:27,Implement,9
+6479,TIMOB-12223,timob,rmcmahon,summary,2013-01-07 12:08:58,Implement,9
+6480,TIMOB-12223,timob,ingo,description,2013-01-24 08:16:46,Add at least:,13
+6551,TIMOB-9840,timob,tpetrenko,description,2012-07-13 11:14:48,nan,3
+6568,TIMOB-9542,timob,joshroesslein,summary,2012-10-26 19:37:14,BlackBerry:,11
+6684,TIMOB-8597,timob,tpetrenko,description,2012-06-14 08:02:15,nan,3
+6697,TIMOB-8587,timob,tpetrenko,description,2012-07-31 14:06:49,nan,3
+6701,TIMOB-8583,timob,penrique,Comment,2013-03-17 09:30:59,Duplicate,9
+6706,TIMOB-8580,timob,joshroesslein,summary,2012-10-26 19:43:19,BlackBerry:,11
+6707,TIMOB-8580,timob,ingo,description,2013-02-01 00:41:12,*,1
+6713,TIMOB-8576,timob,joshroesslein,summary,2012-10-26 19:40:20,BlackBerry:,11
+6720,TIMOB-8573,timob,tpetrenko,description,2012-05-16 07:29:37,nan,3
+6837,TIMOB-5812,timob,hansknoechel,summary,2015-11-02 21:47:12,iOS: Support,12
+6910,TIMOB-684,timob,mculpepper,description,2012-01-04 08:46:57,,0
+7244,TISTUD-1358,tistud,anagesh,Comment,2012-07-23 15:49:36,HD Ticket:,10
+7293,TISTUD-1171,tistud,nle,summary,2012-03-15 12:13:22,Upgrade icons,13
+7452,TISTUD-7900,tistud,kkolipaka,Comment,2015-12-09 04:02:13,,0
+7526,TISTUD-7642,tistud,mike@warnes.com,Comment,2015-07-13 16:48:14,,0
+7537,TISTUD-7591,tistud,ingo,summary,2015-06-19 16:39:26,Error in,8
+7626,TISTUD-6915,tistud,cwilliams,description,2014-09-11 14:45:09,,0
+7629,TISTUD-6909,tistud,cwilliams,description,2014-09-10 17:20:44,,0
+7827,TISTUD-6027,tistud,ingo,summary,2014-01-15 14:50:23,Invalid value,13
+8112,TISTUD-5063,tistud,ingo,description,2013-07-02 20:20:33,update to,9
+8113,TISTUD-5063,tistud,mxia,summary,2013-07-15 23:39:34,update to,9
+8125,TISTUD-4978,tistud,dhyde,Comment,2013-06-21 16:21:12,Closing.,8
+8614,TISTUD-3247,tistud,mxia,description,2013-01-18 11:12:39,,0
+8778,TISTUD-2872,tistud,masella86,Comment,2012-11-28 01:03:37,screenshot8,11
