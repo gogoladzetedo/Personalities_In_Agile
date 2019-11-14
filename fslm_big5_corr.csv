@@ -1,0 +1,11 @@
+fslm,big5
+intuitive,['No_agreeableness']
+intuitive,['Yes_conscientiousness']
+sensing,['Yes_agreeableness']
+sensing,['Yes_conscientiousness']
+active,['Yes_extraversion']
+active,['Yes_openness']
+reflexive,['Yes_extraversion']
+reflexive,['No_openness']
+sequential,['No_neuroticism']
+global,['Yes_neuroticism']
